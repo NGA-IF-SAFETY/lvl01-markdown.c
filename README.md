@@ -1,5 +1,4 @@
 # I.Markdown  
-
 -là 1 ngôn ngữ đánh dấu cú pháp văn bản thô dễ viết dễ đọc dễ dàng chuyển thành HTML và nhiều định dạng khác sử dụng một công cụ cùng tên  
 ##II:Markdowm dùng để làm gì 
 
@@ -30,7 +29,7 @@
 
  3.Phân đoạn một đoạn văn bản bằng cách chèn một dòng trắng ở giữa các đoạn văn bản.  
   
- 4.Xuống dòng bằng cách thêm 2 khoảng trắng ngay phía sau dòng văn bản  
+i 4.Xuống dòng bằng cách thêm 2 khoảng trắng ngay phía sau dòng văn bản  
   
   
  5.Tạo Danh Sách   
